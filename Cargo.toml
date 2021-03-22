@@ -1,0 +1,12 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+authors = ["Caluka"]
+edition = "2018"
+
+
+[dependencies]
+winit = "0.24"
+winit_input_helper = "0.9"
+pixels = "0.2"
+rand = "0.8.3"
